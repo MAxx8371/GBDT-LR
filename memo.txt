@@ -1,0 +1,5 @@
+出现次数小于标准的的标签==nan
+
+#可以把所有要search的parameter写在一起
+
+a.index('1')
